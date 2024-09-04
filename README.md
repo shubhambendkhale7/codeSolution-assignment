@@ -26,7 +26,7 @@ A secure and user-friendly password generator tool that helps you generate stron
 
 To generate a password using the Password Generator Tool, follow these steps:
 
-1. Go to the [Password Generator website](https://passgen.karthiklal.in)
+1. Go to the [Password Generator website]([https://passgen.karthiklal.in](https://password-auto-genarator.netlify.app/))
 2. Select the options for your desired password (uppercase letters, lowercase letters, numbers, and special characters)
 3. Use the slider to select the length of your desired password (between 8 and 128 characters)
 4. Click on the "Generate Password" button to generate a new password
