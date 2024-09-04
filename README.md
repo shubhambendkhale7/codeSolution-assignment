@@ -1,6 +1,6 @@
 # <b> CyberShield </b> (Password Generator) 
 
-![Password Generator](assets/img/docs-img/secure.png)
+![Password Generator](assets/img/screenshot-docs/securePage.png)
 
 ## <b> Overview </b>
 
